@@ -1,0 +1,9 @@
+[
+  { "titulo": "Repasar JS", "estado": "terminada" },
+  { "titulo": "Armar aplicación de Tareas", "estado": "en progreso" },
+  { "titulo": "Break", "estado": "pendiente" },
+  { "titulo": "tarea nueva", "estado": "pendiente" },
+  { "titulo": "otra tarea", "estado": "pendiente" },
+  { "titulo": "Tareita", "estado": "pendiente" },
+  { "titulo": "Tare", "estado": "pendiente" }
+]
